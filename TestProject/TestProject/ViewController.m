@@ -24,6 +24,8 @@
     
     
     //3.20
+    
+    NSLog(@"viewDidload");
 }
 
 
