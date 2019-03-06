@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		40128605222F5D67005BFEB9 /* TestOneController.m in Sources */ = {isa = PBXBuildFile; fileRef = 40128604222F5D67005BFEB9 /* TestOneController.m */; };
 		40F32123222E541300C1E4DD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 40F32122222E541300C1E4DD /* AppDelegate.m */; };
 		40F32126222E541300C1E4DD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 40F32125222E541300C1E4DD /* ViewController.m */; };
 		40F32129222E541300C1E4DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40F32127222E541300C1E4DD /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		40128603222F5D67005BFEB9 /* TestOneController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestOneController.h; sourceTree = "<group>"; };
+		40128604222F5D67005BFEB9 /* TestOneController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestOneController.m; sourceTree = "<group>"; };
 		40F3211E222E541300C1E4DD /* TestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40F32121222E541300C1E4DD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		40F32122222E541300C1E4DD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				40F3212C222E541400C1E4DD /* LaunchScreen.storyboard */,
 				40F3212F222E541400C1E4DD /* Info.plist */,
 				40F32130222E541400C1E4DD /* main.m */,
+				40128603222F5D67005BFEB9 /* TestOneController.h */,
+				40128604222F5D67005BFEB9 /* TestOneController.m */,
 			);
 			path = TestProject;
 			sourceTree = "<group>";
@@ -262,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40128605222F5D67005BFEB9 /* TestOneController.m in Sources */,
 				40F32126222E541300C1E4DD /* ViewController.m in Sources */,
 				40F32131222E541400C1E4DD /* main.m in Sources */,
 				40F32123222E541300C1E4DD /* AppDelegate.m in Sources */,
