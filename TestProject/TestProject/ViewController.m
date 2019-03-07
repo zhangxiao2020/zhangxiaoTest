@@ -88,6 +88,10 @@
 //    dispatch_group_notify(group, dispatch_get_main_queue(), ^{
 //        NSLog(@"所有网络请求的数据都返回了");
 //    });
+    
+    
+    
+    NSLog(@"22222");
 }
 
 @end
