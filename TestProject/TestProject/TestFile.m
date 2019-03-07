@@ -10,4 +10,13 @@
 
 @implementation TestFile
 
+//dev code
+-(instancetype)init
+{
+    self = [super init];
+    if (self) {
+        
+    }
+    return self;
+}
 @end
