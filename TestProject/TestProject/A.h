@@ -13,9 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface A : NSObject
 
 
-// dev2
 @end
 
 
-//dev3.7 update
 NS_ASSUME_NONNULL_END
